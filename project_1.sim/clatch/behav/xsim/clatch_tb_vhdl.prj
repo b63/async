@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl work  \
+"../../../../project_1.srcs/sources_1/new/util.vhd" \
+"../../../../project_1.srcs/sources_1/imports/new/CTL.vhd" \
+"../../../../project_1.srcs/sources_1/imports/new/CLATCH.vhd" \
+"../../../../project_1.srcs/sources_1/imports/new/adder.vhd" \
+"../../../../project_1.srcs/sources_1/imports/new/and_gate.vhd" \
+"../../../../project_1.srcs/sources_1/new/DUALF.vhd" \
+"../../../../project_1.srcs/clatch/new/clatch_tb.vhd" \
+
+# Do not sort compile order
+nosort

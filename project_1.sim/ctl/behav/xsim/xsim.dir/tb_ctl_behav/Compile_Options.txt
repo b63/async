@@ -1,0 +1,1 @@
+-wto "c483afc7452446038085ecf7b0091341" --debug "typical" --relax --mt "8" -L "work" -L "secureip" --snapshot "tb_ctl_behav" "work.tb_ctl" -log "elaborate.log" 

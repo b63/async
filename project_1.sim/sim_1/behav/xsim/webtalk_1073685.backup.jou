@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:07 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sun Jan  2 18:43:17 2022
+# Process ID: 1073685
+# Current directory: /home/hfl/ldata/vivado/project_1/project_1.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/hfl/ldata/vivado/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/and_gate_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/hfl/ldata/vivado/project_1/project_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/hfl/ldata/vivado/project_1/project_1.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/hfl/ldata/vivado/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/and_gate_behav/webtalk/xsim_webtalk.tcl -notrace

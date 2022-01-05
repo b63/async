@@ -1,0 +1,21 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2021.1/bin/unwrapped/lnx64.o/xelab -wto c483afc7452446038085ecf7b0091341 --incr --debug typical --relax --mt 8 -L work -L secureip --snapshot dualf_tb_behav work.dualf_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package work.types
+Compiling architecture ctl_imp of entity work.CTL [\CTL(bits=2)\]
+Compiling architecture ctl_imp of entity work.CTL [\CTL(bits=2,qstart='1')\]
+Compiling architecture clatch_imp of entity work.CLATCH [\CLATCH(qstate="00",delay=1)\]
+Compiling architecture clatch_imp of entity work.CLATCH [\CLATCH(ack='1',delay=1)\]
+Compiling architecture dualf_imp of entity work.DUALF [dualf_default]
+Compiling architecture bench of entity work.dualf_tb
+Built simulation snapshot dualf_tb_behav

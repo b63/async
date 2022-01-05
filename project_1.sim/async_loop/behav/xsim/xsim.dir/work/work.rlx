@@ -1,0 +1,11 @@
+0.7
+2020.2
+Jun 10 2021
+19:45:28
+/home/hfl/ldata/vivado/project_1/project_1.srcs/async_loop/new/dualf_tb.vhd,1641351727,vhdl,,,,dualf_tb,,,,,,,,
+/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/imports/new/CLATCH.vhd,1641340393,vhdl2008,/home/hfl/ldata/vivado/project_1/project_1.srcs/async_loop/new/dualf_tb.vhd,,,clatch,,,,,,,,
+/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/imports/new/CTL.vhd,1641334820,vhdl,/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/imports/new/CLATCH.vhd,,,ctl,,,,,,,,
+/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/imports/new/adder.vhd,1641228263,vhdl,,,,adder,,,,,,,,
+/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/imports/new/and_gate.vhd,1641156787,vhdl,,,,and_gate,,,,,,,,
+/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/new/DUALF.vhd,1641328068,vhdl,/home/hfl/ldata/vivado/project_1/project_1.srcs/async_loop/new/dualf_tb.vhd,,,dualf,,,,,,,,
+/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/new/util.vhd,1641279387,vhdl,/home/hfl/ldata/vivado/project_1/project_1.srcs/async_loop/new/dualf_tb.vhd;/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/imports/new/CLATCH.vhd;/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/imports/new/CTL.vhd;/home/hfl/ldata/vivado/project_1/project_1.srcs/sources_1/new/DUALF.vhd,,,types,,,,,,,,

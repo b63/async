@@ -1,0 +1,4 @@
+Running: xsim.dir/dualf_tb_behav/xsimk -simmode gui -wdb dualf_tb_behav.wdb -simrunnum 0 -socket 35637
+Design successfully loaded
+Design Loading Memory Usage: 34852 KB (Peak: 34972 KB)
+Design Loading CPU Usage: 40 ms
