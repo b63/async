@@ -1,4 +1,6 @@
-Vivado project for implementing a soft-core asynchronous microprocessor in VHDL.
+# Soft-core Asynchoronous Core
+Vivado project for implementing a soft-core asynchronous microprocessor in VHDL on a Xilinx FPGA.
+
 VHDL source files are in `project_1.srcs/`. The `project_1.srcs/sources_1` subdirectory contains design sources,
 and the other  subdirectories contain simulation-only sources (VHDL test benches).
 
