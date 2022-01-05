@@ -13,9 +13,12 @@ Compiling package ieee.std_logic_1164
 Compiling package ieee.numeric_std
 Compiling package work.types
 Compiling architecture ctl_imp of entity work.CTL [\CTL(bits=2)\]
+Compiling architecture ctl_imp of entity work.CTL [\CTL(bits=3)\]
+Compiling architecture clatch_imp of entity work.CLATCH [\CLATCH(n=3,delay=2)\]
+Compiling architecture ctl_imp of entity work.CTL [\CTL(bits=3,qstart='1')\]
+Compiling architecture clatch_imp of entity work.CLATCH [\CLATCH(n=3,ack='1',delay=2)\]
 Compiling architecture ctl_imp of entity work.CTL [\CTL(bits=2,qstart='1')\]
-Compiling architecture clatch_imp of entity work.CLATCH [\CLATCH(qstate="00",delay=1)\]
-Compiling architecture clatch_imp of entity work.CLATCH [\CLATCH(ack='1',delay=1)\]
-Compiling architecture dualf_imp of entity work.DUALF [dualf_default]
+Compiling architecture clatch_imp of entity work.CLATCH [\CLATCH(n=3,qstate="000",delay=2...]
+Compiling architecture dualf_imp of entity work.DUALF [\DUALF(bits_in=3,bits_out=3)\]
 Compiling architecture bench of entity work.dualf_tb
 Built simulation snapshot dualf_tb_behav
